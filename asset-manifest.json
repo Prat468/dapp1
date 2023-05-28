@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/dapp1/static/css/main.b7425cf5.css",
+    "main.js": "/dapp1/static/js/main.dbf7e649.js",
+    "static/js/787.6e617a54.chunk.js": "/dapp1/static/js/787.6e617a54.chunk.js",
+    "static/media/search.svg": "/dapp1/static/media/search.2df18c813a6770397d71921633a5dce0.svg",
+    "static/media/send.svg": "/dapp1/static/media/send.f61086de99e8b2e72f558fdd319b626d.svg",
+    "static/media/person.svg": "/dapp1/static/media/person.75682eafcc5201dbe7d23b4aa137bb11.svg",
+    "index.html": "/dapp1/index.html",
+    "static/media/plus.svg": "/dapp1/static/media/plus.fae8381ed2b02dd2cd12c94555703416.svg",
+    "static/media/ethereum.svg": "/dapp1/static/media/ethereum.2c5685490e299a3bc20a66d8bbb0d8b6.svg",
+    "main.b7425cf5.css.map": "/dapp1/static/css/main.b7425cf5.css.map",
+    "main.dbf7e649.js.map": "/dapp1/static/js/main.dbf7e649.js.map",
+    "787.6e617a54.chunk.js.map": "/dapp1/static/js/787.6e617a54.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b7425cf5.css",
+    "static/js/main.dbf7e649.js"
+  ]
+}
